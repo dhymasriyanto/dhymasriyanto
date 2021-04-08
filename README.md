@@ -34,4 +34,8 @@ or <a href="mailto:gojin003@gmail.com"><b>email</b></a> me.
 <a href="https://dev.to/dhymasriyanto" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 <a href="https://ngodingkuy.tech" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/ngodingkuy.tech.svg" alt="ngodingkuy.tech"></a>
 
+![Follow](https://img.shields.io/github/followers/dhymasriyanto.svg?style=social&label=Follow&maxAge=2592000)
+
+
+
 </div>
