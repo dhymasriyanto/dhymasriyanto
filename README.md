@@ -1,3 +1,6 @@
 ### Get lost in here?
 
-![Dhymas's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhymasriyanto)
+
+<p align="center">
+<img align="middle" alt="GIF" src="https://media0.giphy.com/media/SSirUu2TrV65ymCi4J/200.gif" />
+</p>
