@@ -1,5 +1,7 @@
 
 <h1 align="center">Get lost here?</h1>
+[![HitCount](http://hits.dwyl.com/dhymasriyanto/dhymasriyanto.svg)](http://hits.dwyl.com/dhymasriyanto/dhymasriyanto)
+
 
 <p align="center">
 <img align="middle" alt="GIF" src="https://media0.giphy.com/media/SSirUu2TrV65ymCi4J/200.gif" />
@@ -16,9 +18,7 @@
 
 ---
 
-<h2> Just kidding! ✌️ </h2>
-
-[![HitCount](http://hits.dwyl.com/dhymasriyanto/dhymasriyanto.svg)](http://hits.dwyl.com/dhymasriyanto/dhymasriyanto)
+<h1> Just kidding! ✌️ </h1>
 
 Hello! <br>
 Thanks for discovering my Github profile! <br>
