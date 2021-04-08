@@ -1,8 +1,9 @@
 
 <h1 align="center">Get lost here?</h1>
 
+<div align="center"> 
 [![HitCount](http://hits.dwyl.com/dhymasriyanto/dhymasriyanto.svg)](http://hits.dwyl.com/dhymasriyanto/dhymasriyanto)
-
+</div>
 
 <p align="center">
 <img align="middle" alt="GIF" src="https://media0.giphy.com/media/SSirUu2TrV65ymCi4J/200.gif" />
@@ -15,10 +16,7 @@
 </div>
 
 <div align="center">
-
-
----
-
+ 
 <h1> Just kidding! ✌️ </h1>
 
 Hello! <br>
