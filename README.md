@@ -21,7 +21,6 @@
  
 <h1> Just kidding! ✌️ </h1>
 
-Hello! <br>
 Thanks for discovering my Github profile! <br>
 Ask me anything <a href="https://github.com/dhymasriyanto/dhymasriyanto/issues/new"><b>here</b></a><br>
 or <a href="mailto:gojin003@gmail.com"><b>email</b></a> me.
