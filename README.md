@@ -15,16 +15,17 @@
 
 
 ---
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
-Just kidding! ✌️
+<h2> Just kidding! ✌️ </h2>
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
-or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me.
+[![HitCount](http://hits.dwyl.com/dhymasriyanto/dhymasriyanto.svg)](http://hits.dwyl.com/dhymasriyanto/dhymasriyanto)
 
-<i>Get me on:</i><br>
+Hello! <br>
+Thanks for discovering my Github profile! <br>
+Ask me anything <a href="https://github.com/dhymasriyanto/dhymasriyanto/issues/new"><b>here</b></a><br>
+or <a href="mailto:gojin003@gmail.com"><b>email</b></a> me.
+
+<i>Get to know me on:</i><br>
 
   <!-- <a target="_blank" href="https://www.linkedin.com/in/dhymas-julyan-riyanto-862590154/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.instagram.com/dhymasriyanto/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
