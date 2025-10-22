@@ -1,12 +1,6 @@
 
 <h1 align="center">Get lost here?</h1>
 
-<div align="center"> 
- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdhymasriyanto%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
 <p align="center">
 <img align="middle" alt="GIF" src="https://media0.giphy.com/media/SSirUu2TrV65ymCi4J/200.gif" />
 </p>
