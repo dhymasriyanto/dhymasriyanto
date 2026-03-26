@@ -2,7 +2,7 @@
 
 # hey, I'm Dhymas 👋
 
-fullstack dev • infrastructure nerd • self-hosting addict
+fullstack dev • linux daily driver • vim addict
 
 </div>
 
@@ -14,18 +14,23 @@ fullstack dev • infrastructure nerd • self-hosting addict
 Vue.js • Laravel • Express • Yii2 • Tailwind CSS
 
 **side projects:**
-Hugo • Nginx • Docker • Go • Python • Cloudflare • Tailscale
+Hugo • Nginx • Docker • Electron
+
+**learning:**
+Love2D game dev • whatever looks fun
 
 ### what i'm up to
 
 - running [ngodingkuy.site](https://ngodingkuy.site) on my own setup
 - messing with AI automation stuff
 - trying to make ARM servers behave
-- writing code that actually ships
+- writing code in vim like a proper masochist
 
 ### background
 
 studied CS, focused on microservices & containers. now i build web apps for healthcare and do freelance work on the side — whatever needs building, really.
+
+linux user because life's too short for rebooting. vim user because... honestly not sure anymore, muscle memory i guess.
 
 ---
 
