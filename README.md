@@ -28,7 +28,7 @@ Love2D game dev • whatever looks fun
 
 ### background
 
-studied CS, focused on microservices & containers. now i build web apps for healthcare and do freelance work on the side — whatever needs building, really.
+studied CS, focused on microservices & containers. now i build web apps for healthcare and do freelance work on the side. whatever needs building, really.
 
 linux user because life's too short for rebooting. vim user because... honestly not sure anymore, muscle memory i guess.
 
