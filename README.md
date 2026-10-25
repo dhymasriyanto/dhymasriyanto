@@ -25,6 +25,7 @@ Love2D game dev • whatever looks fun
 - messing with AI automation stuff
 - trying to make ARM servers behave
 - writing code in vim like a proper masochist
+- also love to writing, composing, and drawing
 
 ### background
 
