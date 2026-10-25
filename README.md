@@ -2,7 +2,7 @@
 
 # hey, I'm Dhymas 👋
 
-fullstack dev • linux daily driver • vim addict
+fullstack dev • linux daily driver • vim addict • also an artist  
 
 </div>
 
